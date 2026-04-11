@@ -11,7 +11,7 @@ Built with **XGBoost, Bagging, and Streamlit**, and deployed for real-time usage
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a **banking credit decision system** used to approve or reject loan applications.
 
